@@ -18,4 +18,7 @@ pnpm run dev
 
 # build
 pnpm run build
+
+# test
+pnpm run test:unit
 ```
